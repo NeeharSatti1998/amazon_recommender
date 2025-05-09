@@ -17,3 +17,5 @@ ENV/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+data/*.csv
