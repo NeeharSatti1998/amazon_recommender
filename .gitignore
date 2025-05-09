@@ -19,3 +19,5 @@ ENV/
 .ipynb_checkpoints/
 
 data/*.csv
+
+!data/amazon_node2vec_embeddings_n.csv
