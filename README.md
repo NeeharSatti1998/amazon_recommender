@@ -25,8 +25,8 @@ rec_sys/
 │ └── app.py # Streamlit app code
 ├── models/
 │ └── amazon_user_product_graph.pkl
-├── amazon_node2vec_embeddings.csv
-├── recommendation.py # Embedding and recommendation generation
+├── data/
+   └──amazon_node2vec_embeddings.csv
 ├── notebooks/
 │ └── amazon_data_cleaning.ipynb
   └── embeddings.py
